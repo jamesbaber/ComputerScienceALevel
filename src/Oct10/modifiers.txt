@@ -1,0 +1,26 @@
+Public: Defines an object to be accessable from any part of the project,
+more specifically other classes.
+
+Static: Used to define a variable as a class variable and that
+it is shared between all classes of that type.
+
+Void: States that the function or class does not return any value.
+
+Paramers: Also refered to as arguaments, they are variables passed
+to a function for it to use in processing.
+
+For: A for loop is used for iterating over each element in an array
+or looping a specific number of times.
+
+While: Continues executing a block of code, just as long as a
+specific condition is met.
+
+
+
+Top down programming is a style of design where you create functions
+as modules that are repeated and work together to work as a program
+overall. These modules may be designed for specific purposes but
+accept parameters and so can be reused in different parts of
+the program.
+This is compared to bottom up programming where low level utilities
+are combined to create a high level program.
