@@ -14,13 +14,3 @@ or looping a specific number of times.
 
 While: Continues executing a block of code, just as long as a
 specific condition is met.
-
-
-
-Top down programming is a style of design where you create functions
-as modules that are repeated and work together to work as a program
-overall. These modules may be designed for specific purposes but
-accept parameters and so can be reused in different parts of
-the program.
-This is compared to bottom up programming where low level utilities
-are combined to create a high level program.
