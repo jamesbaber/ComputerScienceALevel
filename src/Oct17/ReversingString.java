@@ -16,7 +16,7 @@ public class ReversingString {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 
-        System.out.println("Enter a positive integer");
+        System.out.println("Enter a string");
         String input = in.nextLine();
         
         String reversed = reverse(input);
