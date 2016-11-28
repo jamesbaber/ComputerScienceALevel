@@ -5,13 +5,12 @@ public class DiceRoll {
 		rollToSnakeEyes();
 	}
 	
-	// Snake eyes routine
+	// Snake eyes subroutine
 	public static void rollToSnakeEyes() {
-		int rollsToSnakeEyes = 0;
-		rollsToSnakeEyes = rollToTarget(2);
+		int rollsToSnakeEyes = rollToTarget(2);
 		
+		// Print the response
 		System.out.println("To get snake eyes it took " + rollsToSnakeEyes + " rolls");
-		
 	}
 	
 	// Get number of rolls until total is target
@@ -39,8 +38,12 @@ public class DiceRoll {
 		return(rolls);
 	}
 	
+	// Die roll function
 	public static int rollDie() {
+		// Roll a number
 		int die = (int) (Math.random() * 6) + 1;
+		
+		// Return it
 		return(die);
 	}
 }
