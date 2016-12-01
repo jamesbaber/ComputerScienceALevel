@@ -1,4 +1,4 @@
-package Post;
+package Dec1;
 
 public class BS {
 	public static void main(String args[]) {
