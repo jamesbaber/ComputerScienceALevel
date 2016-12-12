@@ -34,7 +34,7 @@ public class BubbleSort {
 	    System.out.print("After sorting:  ");
 	    SortUtils.printList(dataset); //Find the time taken to completet the sort of the datalength with the specified length
 		long duration = time// Populate the array
-		        int[] dataset = SortUtils.generateDataset(100);
+		        int[] dataset  								= SortUtils.generateDataset(100);
         
 		        // And print the pre-sorted values
 		        System.out.print("Before sorting: ");
