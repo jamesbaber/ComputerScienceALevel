@@ -8,7 +8,7 @@ public class BinarySearch {
 		
 		// Test target
 		int target = 90;
-		
+
 		// Do the binary search
 		int index = BinarySearch(dataset, target);
 		
