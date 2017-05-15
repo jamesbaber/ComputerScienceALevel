@@ -1,0 +1,19 @@
+body {
+  background-color: #e7e7e7;
+  color: #181818;
+}
+
+#main {
+  width: 60%;
+  height: 50%;
+
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  text-align: center;
+
+  margin: auto;
+}
