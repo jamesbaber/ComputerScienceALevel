@@ -3,6 +3,10 @@ body {
   color: #181818;
 }
 
+.menu {
+  font-size: 120%;
+}
+
 #main {
   width: 60%;
   height: 50%;
