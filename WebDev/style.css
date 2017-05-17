@@ -45,16 +45,20 @@ button {
 
 a:link { /* unvisited link */
     color: #34495e;
+    text-decoration: none;
 }
 
 a:visited { /* visited link */
     color: #34495e;
+    text-decoration: none;
 }
 
 a:hover { /* mouse over link */
     color: #2c3e50;
+    text-decoration: none;
 }
 
 a:active { /* selected link */
-    color: #c0392b; 
+    color: #c0392b;
+    text-decoration: none;
 }
